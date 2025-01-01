@@ -1,0 +1,1 @@
+Book : Practical Linear Algebra for Data Science
